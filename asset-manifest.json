@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//suochu.github.io/20220318/static/css/main.d33dd536.css",
+    "main.js": "/https//suochu.github.io/20220318/static/js/main.a2403016.js",
+    "index.html": "/https//suochu.github.io/20220318/index.html",
+    "main.d33dd536.css.map": "/https//suochu.github.io/20220318/static/css/main.d33dd536.css.map",
+    "main.a2403016.js.map": "/https//suochu.github.io/20220318/static/js/main.a2403016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33dd536.css",
+    "static/js/main.a2403016.js"
+  ]
+}
